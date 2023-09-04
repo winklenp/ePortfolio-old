@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "glidejs": "^2.1.0",
+    "nvm": "^0.0.4"
+  }
+}
